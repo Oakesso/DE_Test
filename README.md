@@ -1,2 +1,3 @@
-# DE_Test
-DE_Test
+# Servier DE_Test
+
+Read pdf file above for the test explanantions.

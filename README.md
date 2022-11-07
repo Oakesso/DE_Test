@@ -1,3 +1,3 @@
 # Servier DE_Test
 
-Read pdf file above for the test explanantions.
+Read "test_python_de.pdf" file above for the test explanantions.
